@@ -1,8 +1,8 @@
-# HGINet
+# 3D-HRSCD
 
 Official Pytorch Code base for "3D-HRSCD: Exploiting the Potential of Multi-scale Features by 3D Convolution"
 
-[Project](https://github.com/sdust-mmlab/3D-HRSCD)
+[Project](https://github.com/Wohaoea2/3D-HRSCD)
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The code is stable while using Python 3.8, torch 2.2.2, CUDA 12.1
 
 - Clone this repository:
 ```bash
-git clone https://github.com/sdust-mmlab/3D-HRSCD
+git clone https://github.com/Wohaoea2/3D-HRSCD
 ```
 
 ## Data Format

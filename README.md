@@ -7,10 +7,10 @@ Official Pytorch Code base for "3D-HRSCD: Exploiting the Potential of Multi-scal
 ## Introduction
 
 Our study aims to develop an effective multi-task network for SCD by modeling temporal dependency. We propose 3D-HRSCD, a novel architecture that utilizes 3D convolution to model temporal dependency across HRNet’s multi-resolution features. The core of this architecture is 3D Convolution Fusion Oriented to Multiscale Features (3DFOM) module, which makes adequate interaction in channel, spatial and temporal dimensions across multiscale features. To support more efficient temporal dependency modeling in 3DFOM, Cosine Similarity-based Temporal Multi-Scales Attention (CTMA) module serves as a preprocessing stage by enhancing features in change regions. Additionally, Comprehensive Semantic Consistency (CSC) loss function is introduced to further suppress pseudo-changes and reduce semantic recognition errors. 
+<img width="1988" height="1611" alt="Fig 2" src="https://github.com/user-attachments/assets/bf3abcf3-2f6f-4235-9e30-24a7b5851d25" />
 
-<!-- <p align="center">
-  <img src="imgs/flowchart.png" width="800"/>
-</p> -->
+
+
 
 ## Using the code:
 
